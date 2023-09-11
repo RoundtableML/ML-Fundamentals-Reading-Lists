@@ -1,10 +1,10 @@
 # ML-Reading-Lists
 
-Decision Factors:
-This list includes papers that have significantly shaped the field of ML, especially with the advent of deep learning techniques.
-We fully aware that we might miss a paper or two but in a rapid changing industry we think these papaer will be sufficient to serve as the foundations for each field - youre more than welcome to offer changes - but our goal is to keep each reading list with a Max of 10 papers.
+## Decision Factors:
 
-Just to clarify - this isn't the latest research papers of each papers!
+This list includes papers that have significantly shaped the field of machine learning, particularly with the advent of deep learning techniques. We are fully aware that we might miss a paper or two, but in a rapidly changing industry, we believe these papers will be sufficient to serve as foundational works for each field. You are more than welcome to suggest changes; however, our goal is to keep each reading list limited to a maximum of 10 papers.
+
+Just to clarify, this list does not feature the latest research papers for each topic.
 
 
 ## Table of Contents
