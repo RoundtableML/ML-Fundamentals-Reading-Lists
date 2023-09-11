@@ -261,7 +261,7 @@ Just to clarify - this isn't the latest research papers of each papers!
 - **Summary**: Discussed scaling up GANs to generate high-quality images.
 - **Link**: [arXiv](https://arxiv.org/abs/1809.11096)
 
-## Graph Neural Networks (GNNs)
+## Graph Neural Networks
 
 ### 1. **Spectral Networks and Locally Connected Networks on Graphs**
 
