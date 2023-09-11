@@ -6,6 +6,15 @@ We fully aware that we might miss a paper or two but in a rapid changing industr
 
 Just to clarify - this isn't the latest research papers of each papers!
 
+
+## Table of Contents
+- [NLP](#nlp)
+- [Computer Vision](#computer-vision)
+- [Generative Models](#generative-models)
+- [Graph Neural Networks](#graph-neural-metworks)
+- [Fairness in Machine Learning](#fairness-in-machine-learning)
+- [Explainability in Machine Learning](#explainability-in-machine-learning)
+
 ## NLP
 
 ### 1. **Word Embeddings: Word2Vec**
