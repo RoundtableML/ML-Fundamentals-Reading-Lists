@@ -181,7 +181,7 @@ Just to clarify - this isn't the latest research papers of each papers!
 
 ## Generative Models
 
-### 1. **Generative Adversarial Networks (GANs)**
+### 1. **Generative Adversarial Networks**
 
 - **Title**: Generative Adversarial Nets
 - **Authors**: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
