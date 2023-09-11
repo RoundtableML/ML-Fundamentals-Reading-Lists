@@ -11,7 +11,7 @@ Just to clarify - this isn't the latest research papers of each papers!
 - [NLP](#nlp)
 - [Computer Vision](#computer-vision)
 - [Generative Models](#generative-models)
-- [Graph Neural Networks](#graph-neural-metworks)
+- [Graph Neural Networks](#graph-neural-networks)
 - [Fairness in Machine Learning](#fairness-in-machine-learning)
 - [Explainability in Machine Learning](#explainability-in-machine-learning)
 
