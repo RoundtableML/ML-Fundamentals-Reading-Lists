@@ -1,6 +1,6 @@
 # ML-Reading-Lists
 
-## Decision Factors:
+## Decision Factors
 
 This list includes papers that have significantly shaped the field of machine learning, particularly with the advent of deep learning techniques. We are fully aware that we might miss a paper or two, but in a rapidly changing industry, we believe these papers will be sufficient to serve as foundational works for each field. You are more than welcome to suggest changes; however, our goal is to keep each reading list limited to a maximum of 10 papers.
 
