@@ -1,4 +1,4 @@
-# ML-Reading-Lists
+# ML Fundamentals Reading Lists
 
 ## Decision Factors
 
